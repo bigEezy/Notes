@@ -3,6 +3,7 @@
 Overview: Quick reference for common Git workflows and commands.
 
 Key commands:
+
 - Initialize: `git init`
 - Clone: `git clone <repo>`
 - Status: `git status`
@@ -13,8 +14,10 @@ Key commands:
 - Rebase: `git rebase <branch>`
 
 Examples:
+
 - Create feature branch: `git checkout -b feature/x`
 - Push branch: `git push -u origin feature/x`
 
 Resources:
+
 - https://git-scm.com/docs
