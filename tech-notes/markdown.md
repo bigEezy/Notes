@@ -31,3 +31,14 @@ Block quotes are created by using the ">" (greater than)
 > "It was the best of times, it was the worst of times...
 >
 > these were the times that tried mens souls"
+
+To create an unordered list, add an asterik "\*" followed by a space
+
+- Ham
+- Cheese
+- Bacon
+- Bread
+
+An ordered list is prefaced with numbers, instead of asterisks.
+
+1
